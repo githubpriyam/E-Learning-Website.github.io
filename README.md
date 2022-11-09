@@ -1,6 +1,6 @@
 ### E-Learning-Website
 This is a fully responsive E-learning website which contains several pages such as :-
-Video Page 
+-Video Page 
 Syllabus Page
 Books Page
 Maths Page
