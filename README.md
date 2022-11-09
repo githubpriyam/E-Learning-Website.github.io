@@ -7,7 +7,11 @@ This is a fully responsive E-learning website which contains several pages such 
 [Video Page.pdf](https://github.com/githubpriyam/E-Learning-Website/files/9974182/Video.Page.pdf)
 
 > Syllabus Page
+[Syllabus Page.pdf](https://github.com/githubpriyam/E-Learning-Website/files/9974199/Syllabus.Page.pdf)
+
 > Books Page
+[Books Page.pdf](https://github.com/githubpriyam/E-Learning-Website/files/9974202/Books.Page.pdf)
+
 > Maths Page
 > Gk Page
 
