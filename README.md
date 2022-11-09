@@ -1,5 +1,5 @@
 ### E-Learning-Website
-[E-learning website.pdf](https://github.com/githubpriyam/E-Learning-Website/files/9974052/E-learning.website.pdf)
+https://githubpriyam.github.io/E-Learning-Website.github.io/
 
 This is a fully responsive E-learning website which contains several pages such as :-
 
